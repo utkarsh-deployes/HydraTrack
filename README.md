@@ -4,6 +4,12 @@ A React Native mobile application developed to explore and gain hands-on experie
 
 ## Project Overview
 
+<p align="center">
+  <img src="./screenshots/screen1.png" width="250"/>
+  <img src="./screenshots/screen2.png" width="250"/>
+  <img src="./screenshots/screen3.png" width="250"/>
+</p>
+
 Hydratrack is a learning project aimed at understanding the core concepts of mobile development using React Native. This project serves as a practical foundation for building cross-platform mobile applications for both Android and iOS platforms.
 
 ## Getting Started
